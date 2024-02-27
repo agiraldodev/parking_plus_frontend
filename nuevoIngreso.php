@@ -33,7 +33,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   // Ejecutar la consulta
   if($conexion->query($insertar) === TRUE) {
-    echo "Registro insertado correctamente";
+    // Redirigir al archivo exito.php despues de la inserción en la BD
+    header("Location: exito.php");
+    exit;
   }
   else {
     echo "Error: " . $insertar . "<br>" . $conexion->error;
