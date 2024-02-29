@@ -11,21 +11,27 @@
   display: flex;
   flex-direction: column;
 
-  input {
-    padding: 1rem;
-    border-radius: 8px;
-    outline: none;
-    border: 1px solid var(--grisClaro);
-  }
-  button {
-    background-color: var(--azul);
-    color: white;
-    text-transform: uppercase;
-    padding: 1rem;
-    border: none;
-    border-radius: 12px;
-    margin-top: 15px;
-    cursor: pointer;
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    input {
+      padding: 1rem;
+      border-radius: 8px;
+      outline: none;
+      border: 1px solid var(--grisClaro);
+    }
+    button {
+      background-color: var(--azul);
+      color: white;
+      text-transform: uppercase;
+      padding: 1rem;
+      border: none;
+      border-radius: 12px;
+      margin-top: 15px;
+      cursor: pointer;
+    }
   }
 }
 
@@ -35,7 +41,8 @@
   grid-template-columns: auto auto;
 }
 
-.informacion > div {/*El simbolo > significa selector hijo*/
+.informacion > div {
+  /*El simbolo > significa selector hijo*/
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -54,8 +61,8 @@
   margin-left: auto;
 }
 
-.botones-acciones{
-    display: flex;
+.botones-acciones {
+  display: flex;
 }
 
 .btnAccion {
@@ -71,9 +78,9 @@
 }
 
 .btnCobrar {
-    background-color: var(--verde);
+  background-color: var(--verde);
 }
 
 .btnCancelar {
-    background-color: var(--rojoPrincipal);
+  background-color: var(--rojoPrincipal);
 }
