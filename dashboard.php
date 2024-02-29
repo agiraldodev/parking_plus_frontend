@@ -33,9 +33,11 @@ include 'header.php';
   </div>
 
   <div class="boton">
-    <div class="boton-menu">
-      <i class="fa-solid fa-chart-line"></i>
-    </div>
+    <a href="reporte.php">
+      <div class="boton-menu">
+        <i class="fa-solid fa-chart-line"></i>
+      </div>
+    </a>
     <h3>Reporte Diario</h3>
   </div>
 </div>
