@@ -19,8 +19,7 @@ $totalPlata = $fila['totalPlata'];
 <div class="informacion-titulo">
     <h3 style="padding-left: 2rem;">Salida Vehiculos</h3>
     <h3 style="padding-left: 2rem;">Total Cobrado
-    <?php echo $totalPlata; ?>
-    <!-- Aquí va la variable con la suma de la plata -->
+    <?php echo " $ ". $totalPlata; ?>
    </h3>
 
 </div>
