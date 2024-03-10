@@ -46,6 +46,14 @@ Aquí podemos observar el registro diario del cobro a los vehiculos que usaron e
 
 
 ## Autores
-El desarrollo de esta aplicación como proyecto de curso es gracias a la motivación que me ofrecen mis estudiantes.
+El desarrollo de esta aplicación como proyecto de curso es gracias a la motivación que me dan mis estudiantes y la energía positiva en cada clase.
 
 - [Andrés Giraldo | Docente](https://www.github.com/agiraldodev)
+- [Sebastian Gómez](https://www.github.com/SebastianGomez2312)
+- [Juan Diego Astaiza](https://www.github.com/Harryson25)
+- [Samy Passu Vargas ](https://www.github.com/sansamy22)
+- [Alex Santiago Pérez Illera](https://www.github.com/aillera91)
+- [Andrea Cabas Rodriguez](https://www.github.com/andrecabas26)
+- [Leydi Silena Vasquez E.](https://www.github.com/lesimonte)
+- [Martha Lorenis Rodriguez](https://www.github.com/manloren)
+- [Hailyen Jullieth Grajales](https://www.github.com/haiquin)
