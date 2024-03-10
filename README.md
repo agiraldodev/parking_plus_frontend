@@ -57,3 +57,4 @@ El desarrollo de esta aplicación como proyecto de curso es gracias a la motivac
 - [Leydi Silena Vasquez E.](https://www.github.com/lesimonte)
 - [Martha Lorenis Rodriguez](https://www.github.com/manloren)
 - [Hailyen Jullieth Grajales](https://www.github.com/haiquin)
+- [Yisel Campo](https://www.github.com/yiselcampo)
